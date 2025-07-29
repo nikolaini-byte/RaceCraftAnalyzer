@@ -1,4 +1,4 @@
-# 🏎️ RaceCraft NG
+# 🏎️ RaceCraftAnalyzer
 
 **Analyze. Understand. Dominate.**  
 _A professional-grade motorsport analytics platform for amateur and semi-pro drivers to analyze and improve their performance using telemetry data and session insights._
@@ -7,8 +7,8 @@ _A professional-grade motorsport analytics platform for amateur and semi-pro dri
 
 ## 📌 Vision
 
-RaceCraft NG is built for passionate drivers who want to **unleash their full potential** on track.  
-Whether you're karting at your local circuit or lapping the Nürburgring in a sim — RaceCraft NG gives you the **data-driven insights** to improve.
+RaceCraftAnalyzer is built for passionate drivers who want to **unleash their full potential** on track.  
+Whether you're karting at your local circuit or lapping the Nürburgring in a sim — RaceCraftAnalyzer gives you the **data-driven insights** to improve.
 
 No noise. No guesswork. Just precision.
 
@@ -50,8 +50,8 @@ No noise. No guesswork. Just precision.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/RaceCraftNG.git
-cd RaceCraftNG
+git clone https://github.com/nikolaini-byte/RaceCraftAnalyzer.git
+cd RaceCraftAnalyzer
 ```
 
 ### 2. Set up environment

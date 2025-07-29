@@ -12,8 +12,8 @@ async def lifespan(app: FastAPI):
     print("Shutting down...")
 
 app = FastAPI(
-    title="RaceCraft NG API",
-    description="Backend API for RaceCraft NG - Motorsport Analytics Platform",
+    title="RaceCraftAnalyzer API",
+    description="Backend API for RaceCraftAnalyzer - Motorsport Analytics Platform",
     version="0.1.0",
     docs_url="/api/docs",
     redoc_url="/api/redoc",
@@ -33,7 +33,7 @@ app.add_middleware(
 # Health check endpoint
 @app.get("/api/health")
 async def health_check():
-    return {"status": "ok", "message": "RaceCraft NG API is running"}
+    return {"status": "ok", "message": "RaceCraftAnalyzer API is running"}
 
 # Import and include routers here
 # from .api.v1.router import api_router

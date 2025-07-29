@@ -1,8 +1,8 @@
-# Contributing to RaceCraft NG
+# Contributing to RaceCraftAnalyzer
 
 🎉 First off, thanks for taking the time to contribute! 🎉
 
-We're excited to have you on board. Here are some guidelines to help you get started with contributing to RaceCraft NG.
+We're excited to have you on board. Here are some guidelines to help you get started with contributing to RaceCraftAnalyzer.
 
 ## 🚀 Getting Started
 
@@ -60,4 +60,4 @@ By contributing, you agree that your contributions will be licensed under the pr
 
 ---
 
-Thank you for helping make RaceCraft NG better! 💪
+Thank you for helping make RaceCraftAnalyzer better! 💪

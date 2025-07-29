@@ -4,7 +4,7 @@ from typing import Optional
 class Settings(BaseSettings):
     # API settings
     API_V1_STR: str = "/api/v1"
-    PROJECT_NAME: str = "RaceCraft NG"
+    PROJECT_NAME: str = "RaceCraftAnalyzer"
     
     # Security
     SECRET_KEY: str = "your-secret-key-here"  # Change this in production

@@ -1,7 +1,7 @@
-# 🧭 RaceCraft NG Roadmap
+# 🧭 RaceCraftAnalyzer Roadmap
 
 _Last updated: July 30, 2025_  
-This document serves as the master plan for RaceCraft NG development, organized by milestones and categories with clear status tracking.
+This document serves as the master plan for RaceCraftAnalyzer development, organized by milestones and categories with clear status tracking.
 
 ## 🎯 Current Focus: MVP Development
 
